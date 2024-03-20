@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fbddaa6-c036-44ab-9597-3c3d9542c3c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dxMorlVYV5XUmVwUEMe8api6SO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Main",
+    "git-widget-placeholder": "produto",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -53,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710945457021</updated>
       <workItem from="1710945458803" duration="76000" />
+      <workItem from="1710947069609" duration="73000" />
     </task>
     <servers />
   </component>
